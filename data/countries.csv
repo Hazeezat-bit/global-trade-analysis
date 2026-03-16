@@ -1,0 +1,14 @@
+country_code,country_name,region,income_group
+USA,United States,North America,High income
+GBR,United Kingdom,Europe,High income
+DEU,Germany,Europe,High income
+FRA,France,Europe,High income
+JPN,Japan,East Asia,High income
+CAN,Canada,North America,High income
+ITA,Italy,Europe,High income
+CHN,China,East Asia,Upper middle income
+IND,India,South Asia,Lower middle income
+BRA,Brazil,Latin America,Upper middle income
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income
+MEX,Mexico,Latin America,Upper middle income
+W00,World,Global,Aggregate
